@@ -29,3 +29,4 @@ save_database()
 load_database()
 print("Generating diagram...")
 generate_diagram(r'diagram.png')
+

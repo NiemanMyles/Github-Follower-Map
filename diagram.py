@@ -2,7 +2,7 @@ from PIL import Image, ImageFont, ImageDraw
 from math import sin, cos, pi
 import random
 
-RADIUS = 200
+RADIUS = 300
 ITEMS_PER_RING = 8
 
 
